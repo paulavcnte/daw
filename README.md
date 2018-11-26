@@ -1,4 +1,4 @@
 # practica2
 Vadim Perepelitsin			Jaime Catalan Mateos 
-Sergiev Pajariev 			Carlinski Sancho
+Sergio Pajares	 			Carlos Sancho
 Erick Cupuera				Jorge Sanchez
