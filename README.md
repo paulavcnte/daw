@@ -4,5 +4,5 @@ Sergio Pajares	 			Carlos Sancho
 Erick Cupuera				Jorge Sanchez
 
 David Murcia                            Javier Magdalena
-Miguel Barrio
+Miguel Barrio				Paula Vicente
 
